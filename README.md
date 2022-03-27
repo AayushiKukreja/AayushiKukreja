@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aayushi Kukreja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development**.
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js**.
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **front-end projects**.
 
 - ⚡ Fun fact **I am a social butterfly!!**
 
