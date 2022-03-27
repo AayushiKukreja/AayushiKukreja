@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
-- ⚡ Fun fact **I enjoy conversatios**
+- ⚡ Fun fact **I am a social butterfly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
