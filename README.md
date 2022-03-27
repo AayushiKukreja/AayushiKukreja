@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am a social butterfly!!**
 
-<h3 align="left"><a href="mailto:aayushikukreja21@gmail.com>Connect with me</a></h3>
+<h3 align="left"><a href="mailto:aayushikukreja21@gmail.com">Connect with me</a></h3>
 <p align="left">
 </p>
 
